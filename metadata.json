@@ -1,0 +1,6 @@
+{
+  "name": "MotoLauncher OS",
+  "description": "A lightweight, high-contrast dashboard for motorcycle-mounted tablets, focused on navigation and essential controls.",
+  "requestFramePermissions": ["geolocation", "bluetooth"],
+  "majorCapabilities": ["navigation", "weather", "media"]
+}
