@@ -1,0 +1,9 @@
+{
+  "appId": "com.pfiuuu.motolauncher",
+  "appName": "MotoLauncher",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}
